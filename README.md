@@ -1,5 +1,7 @@
 # python-functions-cw
 
+Start with a main function and make each problem a function. Call those functions from your main function.
+
 ### Problem 1:
 Create a function in your program that counts from 0 to [NUMBER]
 
